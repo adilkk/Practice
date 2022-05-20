@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-20T12:53:40 IST" name="Default suite" finished-at="2022-05-20T12:54:28 IST" duration-ms="47562">
+    <groups>
+    </groups>
+    <test started-at="2022-05-20T12:53:40 IST" name="Default test" finished-at="2022-05-20T12:54:28 IST" duration-ms="47562">
+      <class name="testing_test.Testing_textbox_test">
+        <test-method is-config="true" signature="getlaunchTestingbaba()[pri:0, instance:testing_test.Testing_textbox_test@50b5ac82]" started-at="2022-05-20T12:53:40 IST" name="getlaunchTestingbaba" finished-at="2022-05-20T12:54:25 IST" duration-ms="44503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlaunchTestingbaba -->
+        <test-method signature="clickonElements()[pri:1, instance:testing_test.Testing_textbox_test@50b5ac82]" started-at="2022-05-20T12:54:25 IST" name="clickonElements" finished-at="2022-05-20T12:54:25 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonElements -->
+        <test-method signature="clickontextbox()[pri:2, instance:testing_test.Testing_textbox_test@50b5ac82]" started-at="2022-05-20T12:54:25 IST" name="clickontextbox" finished-at="2022-05-20T12:54:25 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickontextbox -->
+        <test-method signature="filldetails()[pri:3, instance:testing_test.Testing_textbox_test@50b5ac82]" started-at="2022-05-20T12:54:25 IST" name="filldetails" finished-at="2022-05-20T12:54:27 IST" duration-ms="1920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filldetails -->
+        <test-method signature="getverifytextboxData()[pri:4, instance:testing_test.Testing_textbox_test@50b5ac82]" started-at="2022-05-20T12:54:27 IST" name="getverifytextboxData" finished-at="2022-05-20T12:54:28 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getverifytextboxData -->
+      </class> <!-- testing_test.Testing_textbox_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
